@@ -1,4 +1,4 @@
-# jQuery
+# jQuery TempText
 
 > jQuery is a fast, small, and feature-rich JavaScript library.
 
